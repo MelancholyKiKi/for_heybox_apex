@@ -1,28 +1,5 @@
 [
-    {
-        "id":"1",
-        "weapon_or_legends":"1",
-        "recolor_id":"1",
-        "recolor_id_eng":"1",
-        "recolor_skin_img":"1",
-        "token_price":"1",
-        "ori_skin_id":"1",
-        "ori_skin_img":"1",
-        "last_release_date":"1",
-        "new_release_date":"1"
-    },
-    {
-        "id":"名称",
-        "weapon_or_legends":"归属",
-        "recolor_id":"换色名称",
-        "recolor_id_eng":"换色名称（英文）",
-        "recolor_skin_img":"换色图片",
-        "token_price":"价格",
-        "ori_skin_id":"原皮名称",
-        "ori_skin_img":"原皮图片",
-        "last_release_date":"日期",
-        "new_release_date":"最新更新日期"
-    },
+    
     {
         "id":"严冬_换色",
         "weapon_or_legends":"寻血猎犬",
