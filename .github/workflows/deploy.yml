@@ -1,1 +1,22 @@
-name:auto-deploy-wecrawl
+name: Schedule Worker
+on:
+  schedule:
+    - cron: '*/7 1-13 * * *' # 每天凌晨1:00开始，每隔1分钟执行一次直到1:30
+
+jobs:
+  work:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9' 
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests bs4 github3.py
+      
+      - name: Run script
+        run: python apexitemstore_WebCrawlToJson_BETA.py
