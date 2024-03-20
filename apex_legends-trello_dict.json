@@ -1,1 +1,502 @@
-
+{
+    "skin_id_0": {
+        "label": "Investigating",
+        "name": "[Mad Maggie] Ultimate not impacting some pass/tacs/ults",
+        "date": "2024-02-14T19:51:56.179Z",
+        "action": "createCard"
+    },
+    "skin_id_1": {
+        "label": "Investigating",
+        "name": "Playing at 165+ FPS may cause stuttering during some gameplay scenarios",
+        "date": "2023-06-20T16:08:31.281Z",
+        "action": "updateCard"
+    },
+    "skin_id_2": {
+        "label": "Investigating",
+        "name": "Legends may rotate when exiting a Trident",
+        "date": "2023-08-15T00:46:50.427Z",
+        "action": "updateCard"
+    },
+    "skin_id_3": {
+        "label": "Investigating",
+        "name": "Death Boxes can collide/block doors",
+        "date": "2024-02-08T22:10:19.327Z",
+        "action": "createCard"
+    },
+    "skin_id_4": {
+        "label": "Fix in Progress",
+        "name": "Evo Harvesters audio is a tad loud",
+        "date": "2024-03-07T23:05:30.857Z",
+        "action": "updateCard"
+    },
+    "skin_id_5": {
+        "label": "Fix in Progress",
+        "name": "[Mixtape] Crash when watching Kill Cam",
+        "date": "2024-02-16T01:48:03.075Z",
+        "action": "createCard"
+    },
+    "skin_id_6": {
+        "label": "Fix in Progress",
+        "name": "[Bloodhound Trials] Prowlers don't drop loot",
+        "date": "2024-02-16T01:38:18.115Z",
+        "action": "createCard"
+    },
+    "skin_id_7": {
+        "label": "Fix in Progress",
+        "name": "[Ranked] Placement occasionally doesn't appear after squad wipe",
+        "date": "2024-02-16T01:43:13.690Z",
+        "action": "updateCard"
+    },
+    "skin_id_8": {
+        "label": "Fix in Progress",
+        "name": "Button prompts may not appear on summary/death screen, including report button - but buttons still work!",
+        "date": "2023-06-22T21:05:05.026Z",
+        "action": "updateCard",
+        "desc": "#"
+    },
+    "skin_id_9": {
+        "label": "Fix Released",
+        "name": "\"Evolve armor from purple to red 3 times\" challenge not tracking",
+        "date": "2024-02-22T06:06:22.117Z",
+        "action": "createCard"
+    },
+    "skin_id_10": {
+        "label": "Fix Released",
+        "name": "Cheering/Crowd too loud on Thunderdome",
+        "date": "2024-02-16T01:30:01.620Z",
+        "action": "createCard",
+        "desc": "/"
+    },
+    "skin_id_11": {
+        "label": "Fix Released",
+        "name": "Stuck pixel at bottom of the screen",
+        "date": "2024-02-14T19:42:04.795Z",
+        "action": "createCard"
+    },
+    "skin_id_12": {
+        "label": "Fix Released",
+        "name": "[Visual Error] Lower level helmet color matches Shield Core on Legend UI when equipped",
+        "date": "2024-02-16T01:41:17.591Z",
+        "action": "createCard",
+        "desc": "Correct helmet level is still indicated in inventory."
+    },
+    "skin_id_13": {
+        "label": "Fix Released",
+        "name": "[M/KB] FPS stutters during gameplay",
+        "date": "2024-02-16T01:44:40.690Z",
+        "action": "createCard"
+    },
+    "skin_id_14": {
+        "label": "Fix Released",
+        "name": "[Ranked] Pred icon covers RP earned in Match Summary",
+        "date": "2024-02-16T01:42:11.183Z",
+        "action": "createCard"
+    },
+    "skin_id_15": {
+        "label": "Fix Released",
+        "name": "[Breakout Rewards] Prev. unlocked Legends appear locked, but can be used",
+        "date": "2024-02-14T19:44:16.529Z",
+        "action": "createCard",
+        "desc": "If you have previously unlocked one of the Legends featured in Breakout Rewards, these are still permanently unlocked for you. The gold lock and check are indicators of their participation in this event, and the pop-up language is being updated."
+    },
+    "skin_id_16": {
+        "label": "Fix Released",
+        "name": "[Heavy Rig] Audio out of sync after animation adjustments",
+        "date": "2024-02-16T01:37:37.147Z",
+        "action": "createCard"
+    },
+    "skin_id_17": {
+        "label": "Fix Released",
+        "name": "EVO Harvester spawning away from players/playable areas",
+        "date": "2024-02-16T01:52:16.501Z",
+        "action": "updateCard"
+    },
+    "skin_id_18": {
+        "label": "Fix Released",
+        "name": "Final 5YA CE badge has delayed delivery",
+        "date": "2024-02-21T02:15:58.637Z",
+        "action": "createCard"
+    },
+    "skin_id_19": {
+        "label": "Fix Released",
+        "name": "[Aim Assist] Inconsistencies with FR dummies",
+        "date": "2024-01-15T23:33:48.509Z",
+        "action": "updateCard"
+    },
+    "skin_id_20": {
+        "label": "Fix Released",
+        "name": "Recent increase in Detected Data Mismatch error",
+        "date": "2023-12-07T01:47:50.577Z",
+        "action": "updateCard"
+    },
+    "skin_id_21": {
+        "label": "Fix Released",
+        "name": "[DX11] Nvidia Reflex is greyed out",
+        "date": "2023-11-01T16:26:40.361Z",
+        "action": "createCard"
+    },
+    "skin_id_22": {
+        "label": "Fix Released",
+        "name": "Bullet tracer VFX appears offset when strafing",
+        "date": "2023-11-01T17:03:30.699Z",
+        "action": "updateCard"
+    },
+    "skin_id_23": {
+        "label": "Fix Released",
+        "name": "[Xbox] Game crashing due to console language being unsupported",
+        "date": "2023-10-31T22:47:38.923Z",
+        "action": "updateCard",
+        "desc": "#\n\nIf your console is set to Swedish, Norwegian, Dutch, Finnish, Danish, Turkish, or Hungarian, please temporarily swap to a different language if possible to resume playing in the interim."
+    },
+    "skin_id_24": {
+        "label": "Fix Released",
+        "name": "Players can spectate others while respawning",
+        "date": "2023-11-02T18:36:39.411Z",
+        "action": "createCard"
+    },
+    "skin_id_25": {
+        "label": "Fix Released",
+        "name": "Damage radius of Energy Barricade is slightly larger than indicated by VFX",
+        "date": "2023-10-31T18:48:52.833Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_26": {
+        "label": "Fix Released",
+        "name": "EAC error with Steam Deck/Linux",
+        "date": "2023-10-31T22:56:41.915Z",
+        "action": "updateCard",
+        "desc": "#"
+    },
+    "skin_id_27": {
+        "label": "Fix Released",
+        "name": "Some Damage Dealt challenges are not tracking or showing negative damage",
+        "date": "2023-10-12T21:59:25.155Z",
+        "action": "createCard",
+        "desc": "/"
+    },
+    "skin_id_28": {
+        "label": "Fix Released",
+        "name": "Ranked mode does not unlock until lvl 51",
+        "date": "2023-10-17T01:47:34.112Z",
+        "action": "createCard",
+        "desc": "/"
+    },
+    "skin_id_29": {
+        "label": "Fix Released",
+        "name": "Viewing lifetime stats causes the client to crash",
+        "date": "2023-10-02T17:56:26.374Z",
+        "action": "createCard"
+    },
+    "skin_id_30": {
+        "label": "Fix Released",
+        "name": "Nintendo Switch: Graphics blurry after 18.1.0 update",
+        "date": "2023-09-21T19:52:08.260Z",
+        "action": "createCard"
+    },
+    "skin_id_31": {
+        "label": "Fix Released",
+        "name": "Revenant Challenge: 1000 damage using revenant shell is not tracking damage",
+        "date": "2023-09-21T19:51:45.492Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_32": {
+        "label": "Fix Released",
+        "name": "[Arsenal] Predator Badges are missing numbers",
+        "date": "2023-08-08T18:58:37.751Z",
+        "action": "updateCard"
+    },
+    "skin_id_33": {
+        "label": "Fix Released",
+        "name": "Some players encountering Detected Data Mismatch error",
+        "date": "2023-11-03T17:11:25.741Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_34": {
+        "label": "Fix Released",
+        "name": "[Arsenal] Ranked badges are static, not animated",
+        "date": "2023-08-08T18:58:52.262Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_35": {
+        "label": "Fix Released",
+        "name": "[Valkyrie] Blade Barrage unequipping when returning to lobby",
+        "date": "2023-08-10T22:54:55.719Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_36": {
+        "label": "Fix Released",
+        "name": "[Revenant] Legend not unlocking after completing challenges until game is rebooted",
+        "date": "2023-08-08T18:59:46.914Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_37": {
+        "label": "Fix Released",
+        "name": "Additional white pixels near stats on post-match player cards",
+        "date": "2023-08-15T00:53:59.867Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_38": {
+        "label": "Fix Released",
+        "name": "Unable to see remaining players' and teammates' damage/stats while spectating",
+        "date": "2023-08-15T23:26:34.340Z",
+        "action": "updateCard"
+    },
+    "skin_id_39": {
+        "label": "Fix Released",
+        "name": "Ranked timer shows incorrect end date (no splits)",
+        "date": "2023-08-24T19:42:53.233Z",
+        "action": "updateCard"
+    },
+    "skin_id_40": {
+        "label": "Fix Released",
+        "name": "Unable to reroll challenges",
+        "date": "2023-08-12T02:10:24.327Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_41": {
+        "label": "Fix Released",
+        "name": "Ranked progress bar missing from post-match summary",
+        "date": "2023-08-08T18:56:42.629Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_42": {
+        "label": "Fix Released",
+        "name": "Players often return to first available playlist after playing Mixtape match",
+        "date": "2023-08-08T18:56:24.330Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_43": {
+        "label": "Fix Released",
+        "name": "[Broken Moon] Inconsistent OOB trigger on Production Yard Roof",
+        "date": "2023-07-06T22:39:40.545Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_44": {
+        "label": "Fix Released",
+        "name": "Players below level 50 can currently access Ranked",
+        "date": "2023-08-09T20:46:08.821Z",
+        "action": "updateCard",
+        "desc": "#"
+    },
+    "skin_id_45": {
+        "label": "Fix Released",
+        "name": "[PC: Control] Error when reconnecting on spawn screen",
+        "date": "2023-07-20T21:14:46.193Z",
+        "action": "updateCard"
+    },
+    "skin_id_46": {
+        "label": "Fix Released",
+        "name": "Enabling \"Clamp Mouse Cursor to Game Window\" causes mouse cursor to be invisible",
+        "date": "2023-06-29T21:06:05.971Z",
+        "action": "updateCard"
+    },
+    "skin_id_47": {
+        "label": "Fix Released",
+        "name": "Support Bins not awarding Mobile Respawn Beacons when ally is dead",
+        "date": "2023-08-10T21:09:33.518Z",
+        "action": "updateCard"
+    },
+    "skin_id_48": {
+        "label": "Fix Released",
+        "name": "Tridents can enter a glitched state where they avoid most damage",
+        "date": "2023-07-18T23:16:55.439Z",
+        "action": "createCard",
+        "desc": "#"
+    },
+    "skin_id_49": {
+        "label": "Fix Released",
+        "name": "[Control] Players are occasionally unable to spawn on any captured zones\u2014mode temp removed",
+        "date": "2023-07-07T16:18:26.838Z",
+        "action": "updateCard"
+    },
+    "skin_id_50": {
+        "label": "Fix Released",
+        "name": "Players can get stuck in certain replicators after crafting an item",
+        "date": "2023-06-21T00:31:58.191Z",
+        "action": "updateCard"
+    },
+    "skin_id_51": {
+        "label": "Fix Released",
+        "name": "Challenge lists \"Deal 50000 damage\" instead of 5000 damage",
+        "date": "2023-06-21T18:11:33.133Z",
+        "action": "updateCard"
+    },
+    "skin_id_52": {
+        "label": "Fix Released",
+        "name": "Emote wheel not available during Champion screen.",
+        "date": "2023-06-22T21:06:31.754Z",
+        "action": "updateCard"
+    },
+    "skin_id_53": {
+        "label": "Fix Released",
+        "name": "Blank Death Recap when match ends and player isn't the Champion",
+        "date": "2023-06-22T21:06:55.323Z",
+        "action": "updateCard"
+    },
+    "skin_id_54": {
+        "label": "Fix Released",
+        "name": "Cannot interact with ziplines during banner retrieval animation.",
+        "date": "2023-06-22T21:05:28.096Z",
+        "action": "updateCard"
+    },
+    "skin_id_55": {
+        "label": "Fix Released",
+        "name": "While using DX12 and low detail model settings, scanning a ring console will crash the client.",
+        "date": "2023-06-22T21:06:13.224Z",
+        "action": "updateCard"
+    },
+    "skin_id_56": {
+        "label": "Fix Released",
+        "name": "[Switch] Players may not be able to login with Dressed to Kill",
+        "date": "2023-06-20T16:08:39.256Z",
+        "action": "updateCard"
+    },
+    "skin_id_57": {
+        "label": "Fix Released",
+        "name": "[Ballistic] Swapping Sling Weapons with Loot Vending Machine doesn't update weapon UI"
+    },
+    "skin_id_58": {
+        "label": "Fix Released",
+        "name": "[World's Edge] The sun is too bright when looking at players above you."
+    },
+    "skin_id_59": {
+        "label": "Fix Released",
+        "name": "[World's Edge] Appears brighter than normal."
+    },
+    "skin_id_60": {
+        "label": "Fix Released",
+        "name": "[Wraith] In certain conditions, Wraith can shoot while downed."
+    },
+    "skin_id_61": {
+        "label": "Fix Released",
+        "name": "[Catalyst] Scan Highlights and Diamonds visible through Dark Veil"
+    },
+    "skin_id_62": {
+        "label": "Fix Released",
+        "name": "[Firing Range] Joining a player in-progress will not bring recent changes made in lobby."
+    },
+    "skin_id_63": {
+        "label": "Fix Released",
+        "name": "[Arsenal] Players are currently limited to Firing Range"
+    },
+    "skin_id_64": {
+        "label": "Fix Released",
+        "name": "[Ballistic] When two Ballistics lock each other with Whistler, weapon and reticles disappear after one has unlocked themselves."
+    },
+    "skin_id_65": {
+        "label": "Fix Released",
+        "name": "[Predator] Rank displays total LP incorrectly in lower ranks"
+    },
+    "skin_id_66": {
+        "label": "Fix Released",
+        "name": "[Catalyst] Frame rate drops when prepping Dark Veil."
+    },
+    "skin_id_67": {
+        "label": "Fix Released",
+        "name": "Being in Ash's Phase Breach when Ash dies can result in redirects player to a random location"
+    },
+    "skin_id_68": {
+        "label": "Fix Released",
+        "name": "[Switch] Some Switch accounts have not been corrected after a previous persistence issue was resolved."
+    },
+    "skin_id_69": {
+        "label": "Fix Released",
+        "name": "Audio and VFX drops since S16 launch"
+    },
+    "skin_id_70": {
+        "label": "Fix Released",
+        "name": "Gibraltar's Defensive Bombardment warning horn does not play. (All other related audio does)"
+    },
+    "skin_id_71": {
+        "label": "Fix Released",
+        "name": "Caustic traps disappear when thrown in front of closed doors that are then opened."
+    },
+    "skin_id_72": {
+        "label": "Fix Released",
+        "name": "While using the Bangalore Legend with Viceroy Skin if you ADS with certain scopes (1x Holo & the 2x4x Variable) while using Tactical a texture will block screen."
+    },
+    "skin_id_73": {
+        "label": "Fix Released",
+        "name": "Crouch ADS with the prowler does not function after crouching a few times."
+    },
+    "skin_id_74": {
+        "label": "Fix Released",
+        "name": "When holding the tactical button to deploy and jump to Echo, Echo will spawn where Vantage spawned, or to the last position Echo was recalled to."
+    },
+    "skin_id_75": {
+        "label": "Fix Released",
+        "name": "\"Splash Zone\" ironsight for Flatline is much wider/clearer compared with other Flatline skins"
+    },
+    "skin_id_76": {
+        "label": "Fix Released",
+        "name": "Default commands for removing/transferring attachments for weapons was swapped"
+    },
+    "skin_id_77": {
+        "label": "Fix Released",
+        "name": "[Belgium] players are unable to purchase Sun Squad items."
+    },
+    "skin_id_78": {
+        "label": "Fix Released",
+        "name": "Performance and stability issues on Xbox platforms"
+    },
+    "skin_id_79": {
+        "label": "Fix Released",
+        "name": "UI is not accurate for Team Deathmatch"
+    },
+    "skin_id_80": {
+        "label": "Fix Released",
+        "name": "If you see ORIENTATION MATCH on the @PlayApex game mode selector and shouldn't - read here."
+    },
+    "skin_id_81": {
+        "label": "Fix Released",
+        "name": "[EA App players only] players that buy Apex Coins don't get an updated Coin balance until they restart the game."
+    },
+    "skin_id_82": {
+        "label": "Fix Released",
+        "name": "[SWITCH ONLY] A small number of Switch players may appear as level 1 or are missing other statistics. We are continuing to investigate the issue and will update ASAP."
+    },
+    "skin_id_83": {
+        "label": "Fix Released",
+        "name": "UI Images error when playing Olympus"
+    },
+    "skin_id_84": {
+        "label": "Fix Released",
+        "name": "The third person easter egg can't be activated"
+    },
+    "skin_id_85": {
+        "label": "Fix Released",
+        "name": "Custom Match is missing certain button prompts"
+    },
+    "skin_id_86": {
+        "label": "Fix Released",
+        "name": "Blank ping and emote wheels in the Firing Range"
+    },
+    "skin_id_87": {
+        "label": "Fix Released",
+        "name": "Wraiths eliminated by headshots create blue and orange particle effects"
+    },
+    "skin_id_88": {
+        "label": "Game Status",
+        "name": "Kill Replays have been temporarily removed",
+        "date": "2024-03-07T23:42:18.847Z",
+        "action": "createCard"
+    },
+    "skin_id_89": {
+        "label": "Game Status",
+        "name": "[Steam Deck] Game freezes when selecting Continue from main menu",
+        "date": "2024-03-15T18:00:23.460Z",
+        "action": "createCard",
+        "desc": "Temporary workaround: switch the drop down option of Proton to \u201cExperimental\u201d for Apex (instead of Proton  or ) to allow the game to boot normally."
+    }
+}
