@@ -498,5 +498,12 @@
         "lastUpdate": "2024-03-15T18:00:23.460Z",
         "action": "createCard",
         "desc": "Temporary workaround: switch the drop down option of Proton to \u201cExperimental\u201d for Apex (instead of Proton  or ) to allow the game to boot normally."
+    },
+    "trello_event_90": {
+        "label": "Game Status",
+        "name": "Anti-cheat updates are being deployed",
+        "lastUpdate": "2024-03-21T00:42:30.348Z",
+        "action": "createCard",
+        "desc": "On Sunday, a few professional Apex Legends player accounts were hacked during an ALGS event. Game and player security are our highest priorities, which is why we paused the competition to address the issue immediately. Our teams have deployed the first of a layered series of updates to protect the Apex Legends player community and create a secure experience for everyone. Thank you for your patience."
     }
 }
