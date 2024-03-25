@@ -16,7 +16,7 @@
     "trello_event_2": {
         "label": "Investigating",
         "name": "Legends may rotate when exiting a Trident",
-        "translated_name": "\u9000\u51fa\u4e09\u53c9\u621f\u65f6\uff0c\u56fe\u4f8b\u53ef\u80fd\u4f1a\u65cb\u8f6c",
+        "translated_name": "退出三叉戟时，传奇视角可能旋转",
         "lastUpdate": "2023-08-15T00:46:50.427Z",
         "action": "updateCard"
     },
