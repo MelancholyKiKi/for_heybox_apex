@@ -2,7 +2,7 @@
     "trello_event_0": {
         "label": "Investigating",
         "name": "[Mad Maggie] Ultimate not impacting some pass/tacs/ults",
-        "translated_name": "[疯玛姬]大招不会影响某些被动/战术/大招",
+        "translated_name": "[\u75af\u72c2\u7684\u739b\u59ec]\u5927\u62db\u4e0d\u4f1a\u5f71\u54cd\u67d0\u4e9b\u4f20\u7403/\u94f2\u7403/\u5927\u62db",
         "lastUpdate": "2024-02-14T19:51:56.179Z",
         "action": "createCard"
     },
