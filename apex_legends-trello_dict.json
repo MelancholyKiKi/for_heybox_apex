@@ -36,39 +36,39 @@
     },
     "trello_event_5": {
         "label": "Fix in Progress",
-        "name": "[Ranked] Badges for previous seasons were reset to Bronze",
-        "translated_name": "[\u6392\u540d]\u524d\u51e0\u4e2a\u8d5b\u5b63\u7684\u5fbd\u7ae0\u88ab\u91cd\u7f6e\u4e3a\u9752\u94dc",
-        "lastUpdate": "2024-03-26T19:05:48.468Z",
-        "action": "createCard"
+        "name": "[Ranked] Badges for previous seasons were reset to Bronze (Pred in some cases)",
+        "translated_name": "[\u6392\u540d]\u524d\u51e0\u4e2a\u8d5b\u5b63\u7684\u5fbd\u7ae0\u88ab\u91cd\u7f6e\u4e3a\u9752\u94dc\uff08\u5728\u67d0\u4e9b\u60c5\u51b5\u4e0b\u662fPred\uff09",
+        "lastUpdate": "2024-03-28T16:21:48.651Z",
+        "action": "updateCard"
     },
     "trello_event_6": {
-        "label": "Fix in Progress",
+        "label": "Fix Released",
         "name": "[Bloodhound Trials] Prowlers don't drop loot",
         "translated_name": "[\u730e\u72ac\u8bd5\u70bc]\u5f98\u5f8a\u8005\u4e0d\u4f1a\u6389\u843d\u6218\u5229\u54c1",
         "lastUpdate": "2024-02-16T01:38:18.115Z",
         "action": "createCard"
     },
     "trello_event_7": {
-        "label": "Fix in Progress",
-        "name": "Button prompts may not appear on summary/death screen, including report button - but buttons still work!",
-        "translated_name": "\u6309\u94ae\u63d0\u793a\u53ef\u80fd\u4e0d\u4f1a\u51fa\u73b0\u5728\u6458\u8981/\u6b7b\u4ea1\u5c4f\u5e55\u4e0a\uff0c\u5305\u62ec\u62a5\u544a\u6309\u94ae - \u4f46\u6309\u94ae\u4ecd\u7136\u6709\u6548\uff01",
-        "lastUpdate": "2023-06-22T21:05:05.026Z",
-        "action": "updateCard",
-        "desc": "#"
-    },
-    "trello_event_8": {
         "label": "Fix Released",
         "name": "[Ranked] Placement occasionally doesn't appear after squad wipe",
         "translated_name": "[\u6392\u540d]\u5728\u5c0f\u961f\u64e6\u9664\u540e\uff0c\u4f4d\u7f6e\u5076\u5c14\u4e0d\u4f1a\u51fa\u73b0",
         "lastUpdate": "2024-02-16T01:43:13.690Z",
         "action": "updateCard"
     },
-    "trello_event_9": {
+    "trello_event_8": {
         "label": "Fix Released",
         "name": "[Mixtape] Crash when watching Kill Cam",
         "translated_name": "[\u6df7\u97f3\u5e26]\u89c2\u770b Kill Cam \u65f6\u5d29\u6e83",
         "lastUpdate": "2024-02-16T01:48:03.075Z",
         "action": "createCard"
+    },
+    "trello_event_9": {
+        "label": "Fix Released",
+        "name": "Button prompts may not appear on summary/death screen, including report button - but buttons still work!",
+        "translated_name": "\u6309\u94ae\u63d0\u793a\u53ef\u80fd\u4e0d\u4f1a\u51fa\u73b0\u5728\u6458\u8981/\u6b7b\u4ea1\u5c4f\u5e55\u4e0a\uff0c\u5305\u62ec\u62a5\u544a\u6309\u94ae - \u4f46\u6309\u94ae\u4ecd\u7136\u6709\u6548\uff01",
+        "lastUpdate": "2023-06-22T21:05:05.026Z",
+        "action": "updateCard",
+        "desc": "#"
     },
     "trello_event_10": {
         "label": "Fix Released",
