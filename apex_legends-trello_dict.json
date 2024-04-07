@@ -1,10 +1,10 @@
 {
     "trello_event_0": {
         "label": "Investigating",
-        "name": "[Shadow Society] Progress not currently tracking",
-        "translated_name": "[\u5f71\u5b50\u793e\u56e2]\u5f53\u524d\u672a\u8ddf\u8e2a\u8fdb\u5ea6",
-        "lastUpdate": "2024-04-03T23:45:50.289Z",
-        "action": "createCard"
+        "name": "[Shadow Society] Progress/Reputation not currently tracking",
+        "translated_name": "[\u5f71\u5b50\u793e\u56e2]\u5f53\u524d\u672a\u8ddf\u8e2a\u8fdb\u5ea6/\u58f0\u8a89",
+        "lastUpdate": "2024-04-04T19:04:30.593Z",
+        "action": "updateCard"
     },
     "trello_event_1": {
         "label": "Investigating",
