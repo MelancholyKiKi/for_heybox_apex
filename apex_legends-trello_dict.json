@@ -3,7 +3,7 @@
         "label": "Investigating",
         "name": "Progress made between 04/02's update and 04/03's server downtime is missing",
         "id": "660da360433276876296a177",
-        "translated_name": "\u7f3a\u5c11 04/02 \u7684\u66f4\u65b0\u548c 04/03 \u7684\u670d\u52a1\u5668\u505c\u673a\u65f6\u95f4\u4e4b\u95f4\u53d6\u5f97\u7684\u8fdb\u5c55",
+        "translated_name": "04/02更新至04/03服务器下线期间的进度丢失",
         "lastUpdate": "2024-04-04T00:11:51.203Z",
         "action": "updateCard",
         "desc": "[https://twitter.com/Respawn/status/](https://twitter.com/Respawn/status/ \"smartCard-inline\")\n\n\n\nPurchases made during this timeframe have been restored."
@@ -20,7 +20,7 @@
         "label": "Investigating",
         "name": "[Mad Maggie] Ultimate not impacting some pass/tacs/ults",
         "id": "65cd19dc510c880f2be01f5e",
-        "translated_name": "[\u75af\u72c2\u7684\u739b\u59ec]\u5927\u62db\u4e0d\u4f1a\u5f71\u54cd\u67d0\u4e9b\u4f20\u7403/\u94f2\u7403/\u5927\u62db",
+        "translated_name": "[疯玛吉]终极技能不会影响某些被动/战术/绝招",
         "lastUpdate": "2024-02-14T19:51:56.179Z",
         "action": "createCard"
     },
@@ -44,7 +44,7 @@
         "label": "Fix in Progress",
         "name": "Breakout Challenge progress reset",
         "id": "66031e1092e28bf1486c6d81",
-        "translated_name": "\u7a81\u56f4\u6311\u6218\u8fdb\u5ea6\u91cd\u7f6e",
+        "translated_name": "突破赛季挑战进度被重置",
         "lastUpdate": "2024-03-26T19:12:16.560Z",
         "action": "createCard"
     },
@@ -52,7 +52,7 @@
         "label": "Fix in Progress",
         "name": "[Ranked] Badges for season 4/5 were reset",
         "id": "66031c8cce9f7e13aa8c43a5",
-        "translated_name": "[\u6392\u540d]\u7b2c 4/5 \u8d5b\u5b63\u7684\u5fbd\u7ae0\u5df2\u91cd\u7f6e",
+        "translated_name": "[排位]第四/五赛季徽章被重置",
         "lastUpdate": "2024-04-11T21:21:46.755Z",
         "action": "updateCard"
     },
