@@ -1,29 +1,14 @@
 {
     "trello_event_0": {
         "label": "Investigating",
-        "name": "[Mad Maggie] Ultimate not impacting some pass/tacs/ults",
-        "id": "65cd19dc510c880f2be01f5e",
-        "translated_name": "测试是否会保留这行文本",
-        "lastUpdate": "2024-02-14T19:51:56.179Z",
-        "action": "createCard"
+        "name": "Progress made between 04/02's update and 04/03's server downtime is missing",
+        "id": "660da360433276876296a177",
+        "translated_name": "\u7f3a\u5c11 04/02 \u7684\u66f4\u65b0\u548c 04/03 \u7684\u670d\u52a1\u5668\u505c\u673a\u65f6\u95f4\u4e4b\u95f4\u53d6\u5f97\u7684\u8fdb\u5c55",
+        "lastUpdate": "2024-04-04T00:11:51.203Z",
+        "action": "updateCard",
+        "desc": "[https://twitter.com/Respawn/status/](https://twitter.com/Respawn/status/ \"smartCard-inline\")\n\n\n\nPurchases made during this timeframe have been restored."
     },
     "trello_event_1": {
-        "label": "Investigating",
-        "name": "Playing at 165+ FPS may cause stuttering during some gameplay scenarios",
-        "id": "645a869a509a01c07af6c09b",
-        "translated_name": "\u5728\u67d0\u4e9b\u6e38\u620f\u573a\u666f\u4e2d\uff0c\u4ee5 165+ FPS \u7684\u901f\u5ea6\u73a9\u6e38\u620f\u53ef\u80fd\u4f1a\u5bfc\u81f4\u5361\u987f",
-        "lastUpdate": "2023-06-20T16:08:31.281Z",
-        "action": "updateCard"
-    },
-    "trello_event_2": {
-        "label": "Investigating",
-        "name": "Legends may rotate when exiting a Trident",
-        "id": "6494b966b40fe26cfbeee092",
-        "translated_name": "\u9000\u51fa\u4e09\u53c9\u621f\u65f6\uff0c\u56fe\u4f8b\u53ef\u80fd\u4f1a\u65cb\u8f6c",
-        "lastUpdate": "2023-08-15T00:46:50.427Z",
-        "action": "updateCard"
-    },
-    "trello_event_3": {
         "label": "Investigating",
         "name": "Death Boxes can collide/block doors",
         "id": "65c5514bedc8e9411b60ce70",
@@ -31,7 +16,31 @@
         "lastUpdate": "2024-02-08T22:10:19.327Z",
         "action": "createCard"
     },
+    "trello_event_2": {
+        "label": "Investigating",
+        "name": "[Mad Maggie] Ultimate not impacting some pass/tacs/ults",
+        "id": "65cd19dc510c880f2be01f5e",
+        "translated_name": "[\u75af\u72c2\u7684\u739b\u59ec]\u5927\u62db\u4e0d\u4f1a\u5f71\u54cd\u67d0\u4e9b\u4f20\u7403/\u94f2\u7403/\u5927\u62db",
+        "lastUpdate": "2024-02-14T19:51:56.179Z",
+        "action": "createCard"
+    },
+    "trello_event_3": {
+        "label": "Investigating",
+        "name": "Playing at 165+ FPS may cause stuttering during some gameplay scenarios",
+        "id": "645a869a509a01c07af6c09b",
+        "translated_name": "\u5728\u67d0\u4e9b\u6e38\u620f\u573a\u666f\u4e2d\uff0c\u4ee5 165+ FPS \u7684\u901f\u5ea6\u73a9\u6e38\u620f\u53ef\u80fd\u4f1a\u5bfc\u81f4\u5361\u987f",
+        "lastUpdate": "2023-06-20T16:08:31.281Z",
+        "action": "updateCard"
+    },
     "trello_event_4": {
+        "label": "Investigating",
+        "name": "Legends may rotate when exiting a Trident",
+        "id": "6494b966b40fe26cfbeee092",
+        "translated_name": "\u9000\u51fa\u4e09\u53c9\u621f\u65f6\uff0c\u56fe\u4f8b\u53ef\u80fd\u4f1a\u65cb\u8f6c",
+        "lastUpdate": "2023-08-15T00:46:50.427Z",
+        "action": "updateCard"
+    },
+    "trello_event_5": {
         "label": "Fix in Progress",
         "name": "Breakout Challenge progress reset",
         "id": "66031e1092e28bf1486c6d81",
@@ -39,20 +48,12 @@
         "lastUpdate": "2024-03-26T19:12:16.560Z",
         "action": "createCard"
     },
-    "trello_event_5": {
-        "label": "Fix in Progress",
-        "name": "[Ranked] Badges for previous seasons were reset to Bronze (Pred in some cases)",
-        "id": "66031c8cce9f7e13aa8c43a5",
-        "translated_name": "[\u6392\u540d]\u524d\u51e0\u4e2a\u8d5b\u5b63\u7684\u5fbd\u7ae0\u88ab\u91cd\u7f6e\u4e3a\u9752\u94dc\uff08\u5728\u67d0\u4e9b\u60c5\u51b5\u4e0b\u662fPred\uff09",
-        "lastUpdate": "2024-03-28T16:21:48.651Z",
-        "action": "updateCard"
-    },
     "trello_event_6": {
         "label": "Fix in Progress",
-        "name": "Progress made between 04/02's update and 04/03's server downtime is missing",
-        "id": "660da360433276876296a177",
-        "translated_name": "\u7f3a\u5c11 04/02 \u7684\u66f4\u65b0\u548c 04/03 \u7684\u670d\u52a1\u5668\u505c\u673a\u65f6\u95f4\u4e4b\u95f4\u53d6\u5f97\u7684\u8fdb\u5c55",
-        "lastUpdate": "2024-04-04T00:11:51.203Z",
+        "name": "[Ranked] Badges for season 4/5 were reset",
+        "id": "66031c8cce9f7e13aa8c43a5",
+        "translated_name": "[\u6392\u540d]\u7b2c 4/5 \u8d5b\u5b63\u7684\u5fbd\u7ae0\u5df2\u91cd\u7f6e",
+        "lastUpdate": "2024-04-11T21:21:46.755Z",
         "action": "updateCard"
     },
     "trello_event_7": {
