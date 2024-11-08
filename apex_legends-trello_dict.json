@@ -11,7 +11,7 @@
         "label": "Investigating",
         "id": "672d147bb8f8526bfc501cf0",
         "name": "Damage & recharge causing additional screen clutter",
-        "translated_name": "\u635f\u574f\u548c\u5145\u503c\u5bfc\u81f4\u5c4f\u5e55\u66f4\u52a0\u6742\u4e71",
+        "translated_name": "受伤 & 补甲导致屏幕格外杂乱",
         "lastUpdate": "2024-11-07T19:26:51.972Z",
         "action": "createCard"
     },
