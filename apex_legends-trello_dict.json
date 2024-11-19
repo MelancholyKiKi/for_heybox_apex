@@ -1,37 +1,13 @@
 {
     "trello_event_0": {
         "label": "Investigating",
-        "id": "672d135d2e89ad31d9db7ebb",
-        "name": "D.O.C. occasionally cannot be reassigned to squadmates",
-        "translated_name": "D.O.C. \u5076\u5c14\u4e0d\u80fd\u91cd\u65b0\u5206\u914d\u7ed9\u961f\u53cb",
-        "lastUpdate": "2024-11-07T19:22:05.446Z",
-        "action": "createCard"
-    },
-    "trello_event_1": {
-        "label": "Investigating",
-        "id": "672d147bb8f8526bfc501cf0",
-        "name": "Damage & recharge causing additional screen clutter",
-        "translated_name": "受伤 & 补甲导致屏幕格外杂乱",
-        "lastUpdate": "2024-11-07T19:26:51.972Z",
-        "action": "createCard"
-    },
-    "trello_event_2": {
-        "label": "Investigating",
-        "id": "66eb59276d761e52f029271d",
-        "name": "Friends list shows yourself as friend",
-        "translated_name": "\u597d\u53cb\u5217\u8868\u663e\u793a\u81ea\u5df1\u4e3a\u597d\u53cb",
-        "lastUpdate": "2024-09-18T22:50:15.612Z",
-        "action": "createCard"
-    },
-    "trello_event_3": {
-        "label": "Investigating",
         "id": "66eb59824f417947436df5a6",
         "name": "No V/SFX player for allies on Legend Select screen",
         "translated_name": "\u4f20\u5947\u9009\u62e9 \"\u5c4f\u5e55\u4e0a\u6ca1\u6709\u76df\u53cb\u7684 V/SFX \u64ad\u653e\u5668",
         "lastUpdate": "2024-09-18T22:51:46.793Z",
         "action": "createCard"
     },
-    "trello_event_4": {
+    "trello_event_1": {
         "label": "Investigating",
         "id": "66732a3833680e4a875e3a79",
         "name": "[Xbox] FPS drops with Bloodhound Ult",
@@ -39,7 +15,7 @@
         "lastUpdate": "2024-06-19T18:58:00.118Z",
         "action": "createCard"
     },
-    "trello_event_5": {
+    "trello_event_2": {
         "label": "Investigating",
         "id": "667e0196abddcb3b35dc85a7",
         "name": "[R-99/Peacekeeper] Specific trials not tracking in BR/Mixtape",
@@ -48,15 +24,7 @@
         "action": "createCard",
         "desc": "Challenges not tracking in BR/Mixtape Modes:\n\n- R-: Down an enemy with the weapon without releasing the trigger using hipfire\n- Peacekeeper: Down an enemy with all pellets landed on target in a blast"
     },
-    "trello_event_6": {
-        "label": "Investigating",
-        "id": "65cd19dc510c880f2be01f5e",
-        "name": "[Mad Maggie] Ultimate not impacting some pass/tacs/ults",
-        "translated_name": "[\u75af\u739b\u5409] \u7ec8\u6781\u6280\u80fd\u4e0d\u4f1a\u5f71\u54cd\u67d0\u4e9b\u4f20\u7403/\u6218\u672f\u6280\u80fd/\u7ed3\u679c",
-        "lastUpdate": "2024-02-14T19:51:56.179Z",
-        "action": "createCard"
-    },
-    "trello_event_7": {
+    "trello_event_3": {
         "label": "Investigating",
         "id": "6629a452f1c5bf126fab3fac",
         "name": "Founder's badge shows as locked, but can still be equipped",
@@ -64,7 +32,7 @@
         "lastUpdate": "2024-04-25T00:31:14.590Z",
         "action": "createCard"
     },
-    "trello_event_8": {
+    "trello_event_4": {
         "label": "Investigating",
         "id": "66732bd9c16e7921553fca7b",
         "name": "Weapon Mastery + Trackers show different values",
@@ -72,15 +40,7 @@
         "lastUpdate": "2024-06-19T19:04:57.962Z",
         "action": "createCard"
     },
-    "trello_event_9": {
-        "label": "Investigating",
-        "id": "66eb52d0a4ccadcfd4e65b22",
-        "name": "Death Recap empty after Kill Replay",
-        "translated_name": "\u6740\u622e\u56de\u653e\u540e\u7684\u6b7b\u4ea1\u56de\u653e\u4e3a\u7a7a",
-        "lastUpdate": "2024-09-18T22:23:12.935Z",
-        "action": "createCard"
-    },
-    "trello_event_10": {
+    "trello_event_5": {
         "label": "Fix in Progress",
         "id": "66f4a7651446cf78cc4ffe45",
         "name": "[Akimbo] Held XP is low in match summary",
@@ -88,16 +48,31 @@
         "lastUpdate": "2024-09-26T00:14:29.871Z",
         "action": "createCard"
     },
-    "trello_event_11": {
-        "label": "Investigating",
-        "id": "66eb59d505b8d4fd78987b1a",
-        "name": "[Havoc] Mastery requires Turbocharger Hop-Up",
-        "translated_name": "[\u54c8\u6c83\u514b] \u7cbe\u901a\u9700\u8981\u6da1\u8f6e\u589e\u538b\u5668\u5373\u7528\u914d\u4ef6",
-        "lastUpdate": "2024-09-18T22:53:09.379Z",
-        "action": "createCard",
-        "desc": "/"
+    "trello_event_6": {
+        "label": "Fix in Progress",
+        "id": "66eb59276d761e52f029271d",
+        "name": "Friends list shows yourself as friend",
+        "translated_name": "\u597d\u53cb\u5217\u8868\u663e\u793a\u81ea\u5df1\u4e3a\u597d\u53cb",
+        "lastUpdate": "2024-09-18T22:50:15.612Z",
+        "action": "createCard"
     },
-    "trello_event_12": {
+    "trello_event_7": {
+        "label": "Fix Released",
+        "id": "672d147bb8f8526bfc501cf0",
+        "name": "Damage & recharge causing additional screen clutter",
+        "translated_name": "\u635f\u574f\u548c\u5145\u503c\u5bfc\u81f4\u5c4f\u5e55\u66f4\u52a0\u6742\u4e71",
+        "lastUpdate": "2024-11-07T19:26:51.972Z",
+        "action": "createCard"
+    },
+    "trello_event_8": {
+        "label": "Fix Released",
+        "id": "672d135d2e89ad31d9db7ebb",
+        "name": "D.O.C. occasionally cannot be reassigned to/from squadmates",
+        "translated_name": "D.O.C. \u5076\u5c14\u4e0d\u80fd\u91cd\u65b0\u5206\u914d\u7ed9/\u79bb\u5f00\u961f\u53cb",
+        "lastUpdate": "2024-11-08T17:49:56.092Z",
+        "action": "updateCard"
+    },
+    "trello_event_9": {
         "label": "Fix Released",
         "id": "66eb59d505b8d4fd78987b1a",
         "name": "[Havoc] Mastery requires Turbocharger Hop-Up",
@@ -106,7 +81,7 @@
         "action": "createCard",
         "desc": "/"
     },
-    "trello_event_13": {
+    "trello_event_10": {
         "label": "Fix Released",
         "id": "66eb5a6987de806e57b25520",
         "name": "[Crypto] Some skins have visible elements despite Off The Grid perk",
@@ -114,7 +89,7 @@
         "lastUpdate": "2024-09-18T22:55:37.165Z",
         "action": "createCard"
     },
-    "trello_event_14": {
+    "trello_event_11": {
         "label": "Fix Released",
         "id": "66eb5a2f7137abc25883ee8f",
         "name": "[Mirage] Not cloaked during revive",
@@ -122,7 +97,7 @@
         "lastUpdate": "2024-09-18T22:54:40.014Z",
         "action": "createCard"
     },
-    "trello_event_15": {
+    "trello_event_12": {
         "label": "Fix Released",
         "id": "672aaa53fa67bea6ca28f8c0",
         "name": "Spark Bonus is not counting the Apex Packs opened",
@@ -130,7 +105,7 @@
         "lastUpdate": "2024-11-05T23:29:23.518Z",
         "action": "createCard"
     },
-    "trello_event_16": {
+    "trello_event_13": {
         "label": "Fix Released",
         "id": "67199c913bec44dbd76a4aee",
         "name": "Heirloom Shards displaying as 0 on player accounts",
@@ -138,7 +113,7 @@
         "lastUpdate": "2024-10-24T01:02:09.975Z",
         "action": "createCard"
     },
-    "trello_event_17": {
+    "trello_event_14": {
         "label": "Fix Released",
         "id": "66ec92d90aa2a2502c8c275b",
         "name": "[Thunderdome] Large magenta pieces",
@@ -146,7 +121,7 @@
         "lastUpdate": "2024-09-19T21:08:41.217Z",
         "action": "createCard"
     },
-    "trello_event_18": {
+    "trello_event_15": {
         "label": "Fix Released",
         "id": "66eb69a6746262b8ba630ec6",
         "name": "Unable to drop items while using consumables",
@@ -154,7 +129,7 @@
         "lastUpdate": "2024-09-19T00:00:38.673Z",
         "action": "createCard"
     },
-    "trello_event_19": {
+    "trello_event_16": {
         "label": "Fix Released",
         "id": "66ec9510d80138aa234c2c6d",
         "name": "Fast mouse movement goes outside of the window in DX12",
@@ -162,7 +137,7 @@
         "lastUpdate": "2024-09-19T21:18:08.981Z",
         "action": "createCard"
     },
-    "trello_event_20": {
+    "trello_event_17": {
         "label": "Fix Released",
         "id": "66eb525d3181fd10f234866f",
         "name": "[PS] Crashing across PS devices",
@@ -170,7 +145,7 @@
         "lastUpdate": "2024-09-18T22:21:17.189Z",
         "action": "createCard"
     },
-    "trello_event_21": {
+    "trello_event_18": {
         "label": "Fix Released",
         "id": "66eb538e2e10c6431267514b",
         "name": "Requeue not working as intended",
@@ -178,7 +153,7 @@
         "lastUpdate": "2024-09-19T21:03:20.446Z",
         "action": "updateCard"
     },
-    "trello_event_22": {
+    "trello_event_19": {
         "label": "Fix Released",
         "id": "66bd4ee9f03769d45cc78ad8",
         "name": "[Map] Object icons fail to disappear after being interacted with",
@@ -186,7 +161,7 @@
         "lastUpdate": "2024-08-15T00:42:17.036Z",
         "action": "createCard"
     },
-    "trello_event_23": {
+    "trello_event_20": {
         "label": "Fix Released",
         "id": "66bd512f1ac855acaf933159",
         "name": "[Console] Premium+ shows full rate for those with Premium BP **",
@@ -195,7 +170,7 @@
         "action": "createCard",
         "desc": "This is labeled as a visual error only. Rate is correct in the backend and players will be charged the discounted rate for Premium+ if they already have the Premium BP."
     },
-    "trello_event_24": {
+    "trello_event_21": {
         "label": "Fix Released",
         "id": "66cdff5f8096c01062b43ed1",
         "name": "[Newcastle] Swift Shield perk not functioning as intended",
@@ -203,7 +178,7 @@
         "lastUpdate": "2024-08-27T16:31:27.534Z",
         "action": "createCard"
     },
-    "trello_event_25": {
+    "trello_event_22": {
         "label": "Fix Released",
         "id": "66bd5228726547d0d4698e86",
         "name": "[Bangalore/Akimbo] Unable to shoot after using Tac while weapons were holstered",
@@ -211,7 +186,7 @@
         "lastUpdate": "2024-08-15T00:56:08.894Z",
         "action": "createCard"
     },
-    "trello_event_26": {
+    "trello_event_23": {
         "label": "Fix Released",
         "id": "66bd4eb94ba80852a22e6403",
         "name": "R-99 can be found as ground loot",
@@ -219,7 +194,7 @@
         "lastUpdate": "2024-08-15T00:41:29.915Z",
         "action": "createCard"
     },
-    "trello_event_27": {
+    "trello_event_24": {
         "label": "Investigating",
         "id": "6654c753fb2115ead198f552",
         "name": "[Broken Moon] Zip Rail near Terraformer missing on mini map",
@@ -227,7 +202,7 @@
         "lastUpdate": "2024-05-27T17:48:30.273Z",
         "action": "updateCard"
     },
-    "trello_event_28": {
+    "trello_event_25": {
         "label": "Fix Released",
         "id": "6654c753fb2115ead198f552",
         "name": "[Broken Moon] Zip Rail near Terraformer missing on mini map",
@@ -235,7 +210,7 @@
         "lastUpdate": "2024-05-27T17:48:30.273Z",
         "action": "updateCard"
     },
-    "trello_event_29": {
+    "trello_event_26": {
         "label": "Fix Released",
         "id": "66bd4e95a06e32064c6f26ee",
         "name": "[Challenge] \"Revive Squadmates 30 Times\" tagged NBR isn't possible",
@@ -243,7 +218,7 @@
         "lastUpdate": "2024-08-15T00:40:53.595Z",
         "action": "createCard"
     },
-    "trello_event_30": {
+    "trello_event_27": {
         "label": "Fix Released",
         "id": "66baa8a15bb73c6fe126c98e",
         "name": "[PC] Mouse not tracking camera movement",
@@ -251,7 +226,7 @@
         "lastUpdate": "2024-08-13T00:28:17.651Z",
         "action": "createCard"
     },
-    "trello_event_31": {
+    "trello_event_28": {
         "label": "Fix Released",
         "id": "66b54777446c12389dce8097",
         "name": "[PC] Loss of input when tabbing out and back in",
@@ -259,7 +234,7 @@
         "lastUpdate": "2024-08-13T00:28:27.317Z",
         "action": "updateCard"
     },
-    "trello_event_32": {
+    "trello_event_29": {
         "label": "Fix Released",
         "id": "66b5437d325de58772c58886",
         "name": "Players matchmaking in Ranked Rumbles instead of Ranked",
@@ -267,7 +242,7 @@
         "lastUpdate": "2024-08-08T22:34:44.625Z",
         "action": "updateCard"
     },
-    "trello_event_33": {
+    "trello_event_30": {
         "label": "Fix Released",
         "id": "667b5c8d6faeeaeb5c146a56",
         "name": "[Dropship] Loud fluttering sound at match start",
@@ -276,7 +251,7 @@
         "action": "createCard",
         "desc": "Looking for any additional details/clips"
     },
-    "trello_event_34": {
+    "trello_event_31": {
         "label": "Fix Released",
         "id": "6687169aa0db027564c2bcf2",
         "name": "Leaving matches can cause repetitive 'persistence transfer canceled' err",
@@ -284,7 +259,7 @@
         "lastUpdate": "2024-07-12T16:17:37.146Z",
         "action": "updateCard"
     },
-    "trello_event_35": {
+    "trello_event_32": {
         "label": "Fix Released",
         "id": "65c5514bedc8e9411b60ce70",
         "name": "Death Boxes can collide/block doors",
@@ -292,7 +267,7 @@
         "lastUpdate": "2024-02-08T22:10:19.327Z",
         "action": "createCard"
     },
-    "trello_event_36": {
+    "trello_event_33": {
         "label": "Fix Released",
         "id": "667e0240f275c68763915fd7",
         "name": "[PC] Misalignment between game + cursor when attempting to move client while windowed",
@@ -300,7 +275,7 @@
         "lastUpdate": "2024-06-28T00:22:40.862Z",
         "action": "updateCard"
     },
-    "trello_event_37": {
+    "trello_event_34": {
         "label": "Fix Released",
         "id": "667c9fd25fe6f5cf89ce01a7",
         "name": "Adaptive Supersampling causes screen tearing during gameplay",
@@ -309,7 +284,7 @@
         "action": "createCard",
         "desc": "Temporary workaround is to disable adaptive supersampling in the settings until a fix can be finalized and released."
     },
-    "trello_event_38": {
+    "trello_event_35": {
         "label": "Fix Released",
         "id": "667e04bd61595ff8d6517131",
         "name": "[Quads] Only 3 players show in Summary after winning",
@@ -317,7 +292,7 @@
         "lastUpdate": "2024-06-28T00:33:01.797Z",
         "action": "createCard"
     },
-    "trello_event_39": {
+    "trello_event_36": {
         "label": "Fix Released",
         "id": "6685906c17e1f4994faeb5f6",
         "name": "[PC] Freezing in lobby for players",
@@ -326,7 +301,7 @@
         "action": "updateCard",
         "desc": "Enabling \"Spot Shadow Detail\" and \"Dynamic Spot Shadows\" in Video Settings may assist some players, but is not a full workaround.\n\nAppears to be impacting quad-core machines."
     },
-    "trello_event_40": {
+    "trello_event_37": {
         "label": "Fix Released",
         "id": "6696a2b6081e617d063ffc28",
         "name": "[PS] Launching Apex in FR with language pack results in crash",
@@ -335,7 +310,7 @@
         "action": "createCard",
         "desc": "Players can delete the language pack and/or switch to EN or another language to continue playing in the meantime."
     },
-    "trello_event_41": {
+    "trello_event_38": {
         "label": "Fix Released",
         "id": "66732a800f86d8d933c6a6e7",
         "name": "[Mixtape] Scoreboard incorrect when joining match in progress",
@@ -343,7 +318,7 @@
         "lastUpdate": "2024-06-19T18:59:12.787Z",
         "action": "createCard"
     },
-    "trello_event_42": {
+    "trello_event_39": {
         "label": "Fix Released",
         "id": "666b59aa15ccf0a7459292c4",
         "name": "[Gun Run] Teams initially spawning too close on Zeus Station",
@@ -351,7 +326,7 @@
         "lastUpdate": "2024-06-13T20:42:18.431Z",
         "action": "createCard"
     },
-    "trello_event_43": {
+    "trello_event_40": {
         "label": "Fix Released",
         "id": "66565633e4993bb9ee203667",
         "name": "[Caustic] Teammates slowed by friendly gas",
@@ -359,7 +334,7 @@
         "lastUpdate": "2024-05-28T22:09:55.744Z",
         "action": "createCard"
     },
-    "trello_event_44": {
+    "trello_event_41": {
         "label": "Fix Released",
         "id": "664fca872f720fdc8758c504",
         "name": "Rerolling some Daily Challenges with Legend Tokens results in crash",
@@ -367,7 +342,7 @@
         "lastUpdate": "2024-05-23T23:15:44.610Z",
         "action": "updateCard"
     },
-    "trello_event_45": {
+    "trello_event_42": {
         "label": "Fix Released",
         "id": "663bb5c11871774e546ae0a2",
         "name": "[Banners] Missing Legend poses",
@@ -375,7 +350,7 @@
         "lastUpdate": "2024-05-08T17:26:25.644Z",
         "action": "createCard"
     },
-    "trello_event_46": {
+    "trello_event_43": {
         "label": "Fix Released",
         "id": "664517ec33fcff72c00c3bf4",
         "name": "[Xbox] Speech-to-Text encountering issues",
@@ -383,7 +358,7 @@
         "lastUpdate": "2024-05-23T21:04:36.057Z",
         "action": "updateCard"
     },
-    "trello_event_47": {
+    "trello_event_44": {
         "label": "Fix Released",
         "id": "6645173f85614f5146f51486",
         "name": "UI elements occasionally disappearing after respawning",
@@ -391,7 +366,7 @@
         "lastUpdate": "2024-05-15T20:13:40.771Z",
         "action": "updateCard"
     },
-    "trello_event_48": {
+    "trello_event_45": {
         "label": "Fix Released",
         "id": "6645160451a7938d311a9a8f",
         "name": "Players occasionally respawning without weapons",
@@ -399,7 +374,7 @@
         "lastUpdate": "2024-05-15T20:07:32.827Z",
         "action": "createCard"
     },
-    "trello_event_49": {
+    "trello_event_46": {
         "label": "Fix Released",
         "id": "663a9eb6231e1321cd9adcbd",
         "name": "[Valkyrie] No fuel regen while off her feet",
@@ -407,7 +382,7 @@
         "lastUpdate": "2024-05-07T21:36:39.981Z",
         "action": "updateCard"
     },
-    "trello_event_50": {
+    "trello_event_47": {
         "label": "Fix Released",
         "id": "663a9a55b639e63a63c9fb75",
         "name": "Heirlooms are not staying equipped",
@@ -415,7 +390,7 @@
         "lastUpdate": "2024-05-07T21:17:09.568Z",
         "action": "createCard"
     },
-    "trello_event_51": {
+    "trello_event_48": {
         "label": "Fix Released",
         "id": "663aa788e30c207a72919a3c",
         "name": "[Steam Deck/Linux] Unable to access Apex",
@@ -424,7 +399,7 @@
         "action": "createCard",
         "desc": "Working with third-party partners as an update is required their side."
     },
-    "trello_event_52": {
+    "trello_event_49": {
         "label": "Fix Released",
         "id": "66031e1092e28bf1486c6d81",
         "name": "Breakout Challenge progress reset (see card for details)",
@@ -433,7 +408,7 @@
         "action": "updateCard",
         "desc": "If you\u2019re still seeing lost progress after recent updates, please create a ticket here: [https://help.ea.com/en/help-top-issues/?product=apex-legends](https://help.ea.com/en/help-top-issues/?product=apex-legends \"smartCard-inline\")\n\n\u200c\n\n\u200c"
     },
-    "trello_event_53": {
+    "trello_event_50": {
         "label": "Fix Released",
         "id": "66031c8cce9f7e13aa8c43a5",
         "name": "[Ranked] Badges for season 4/5 were reset",
@@ -441,7 +416,7 @@
         "lastUpdate": "2024-04-11T21:21:46.755Z",
         "action": "updateCard"
     },
-    "trello_event_54": {
+    "trello_event_51": {
         "label": "Fix Released",
         "id": "65cebc8a1eb78ff6590f85a4",
         "name": "[Bloodhound Trials] Prowlers don't drop loot",
@@ -449,7 +424,7 @@
         "lastUpdate": "2024-02-16T01:38:18.115Z",
         "action": "createCard"
     },
-    "trello_event_55": {
+    "trello_event_52": {
         "label": "Fix Released",
         "id": "660da2b5e9a68ee499936b09",
         "name": "[Ranked] Breakout Split has been delayed",
@@ -457,7 +432,7 @@
         "lastUpdate": "2024-04-03T18:40:53.053Z",
         "action": "createCard"
     },
-    "trello_event_56": {
+    "trello_event_53": {
         "label": "Fix Released",
         "id": "65cebda778ac71a88598573e",
         "name": "[Ranked] Placement occasionally doesn't appear after squad wipe",
@@ -465,7 +440,7 @@
         "lastUpdate": "2024-02-16T01:43:13.690Z",
         "action": "updateCard"
     },
-    "trello_event_57": {
+    "trello_event_54": {
         "label": "Fix Released",
         "id": "65cebed3494f0344f12f026a",
         "name": "[Mixtape] Crash when watching Kill Cam",
@@ -473,7 +448,7 @@
         "lastUpdate": "2024-02-16T01:48:03.075Z",
         "action": "createCard"
     },
-    "trello_event_58": {
+    "trello_event_55": {
         "label": "Investigating",
         "id": "645a869a509a01c07af6c09b",
         "name": "Playing at 165+ FPS may cause stuttering during some gameplay scenarios",
@@ -481,7 +456,7 @@
         "lastUpdate": "2023-11-02T21:04:08.610Z",
         "action": "updateCard"
     },
-    "trello_event_59": {
+    "trello_event_56": {
         "label": "Fix Released",
         "id": "645a869a509a01c07af6c09b",
         "name": "Playing at 165+ FPS may cause stuttering during some gameplay scenarios",
@@ -489,7 +464,7 @@
         "lastUpdate": "2023-11-02T21:04:08.610Z",
         "action": "updateCard"
     },
-    "trello_event_60": {
+    "trello_event_57": {
         "label": "Fix Released",
         "id": "64790b7ae45f4ad838a34a76",
         "name": "Button prompts may not appear on summary/death screen, including report button - but buttons still work!",
@@ -497,7 +472,7 @@
         "lastUpdate": "2023-11-02T21:03:31.520Z",
         "action": "updateCard"
     },
-    "trello_event_61": {
+    "trello_event_58": {
         "label": "Fix Released",
         "id": "65ea482ebc40ca357643f44e",
         "name": "Evo Harvesters audio is a tad loud",
@@ -505,7 +480,7 @@
         "lastUpdate": "2024-03-07T23:05:30.857Z",
         "action": "updateCard"
     },
-    "trello_event_62": {
+    "trello_event_59": {
         "label": "Fix Released",
         "id": "65f48cb70dc38e6f4747ce4c",
         "name": "[Steam Deck] Game freezes when selecting Continue from main menu",
@@ -514,7 +489,7 @@
         "action": "createCard",
         "desc": "Temporary workaround: switch the drop down option of Proton to \u201cExperimental\u201d for Apex (instead of Proton  or ) to allow the game to boot normally."
     },
-    "trello_event_63": {
+    "trello_event_60": {
         "label": "Fix Released",
         "id": "65d6e45ec2d7148902e41543",
         "name": "\"Evolve armor from purple to red 3 times\" challenge not tracking",
@@ -522,7 +497,7 @@
         "lastUpdate": "2024-02-22T06:06:22.117Z",
         "action": "createCard"
     },
-    "trello_event_64": {
+    "trello_event_61": {
         "label": "Fix Released",
         "id": "65ceba996707f08060c80414",
         "name": "Cheering/Crowd too loud on Thunderdome",
@@ -531,7 +506,7 @@
         "action": "createCard",
         "desc": "/"
     },
-    "trello_event_65": {
+    "trello_event_62": {
         "label": "Fix Released",
         "id": "65cd178cdcc8264a18c19e00",
         "name": "Stuck pixel at bottom of the screen",
@@ -539,7 +514,7 @@
         "lastUpdate": "2024-02-14T19:42:04.795Z",
         "action": "createCard"
     },
-    "trello_event_66": {
+    "trello_event_63": {
         "label": "Fix Released",
         "id": "65cebd3d114f528547a07bc8",
         "name": "[Visual Error] Lower level helmet color matches Shield Core on Legend UI when equipped",
@@ -548,7 +523,7 @@
         "action": "createCard",
         "desc": "Correct helmet level is still indicated in inventory."
     },
-    "trello_event_67": {
+    "trello_event_64": {
         "label": "Fix Released",
         "id": "65cebe0885b540738dfc4548",
         "name": "[M/KB] FPS stutters during gameplay",
@@ -556,7 +531,7 @@
         "lastUpdate": "2024-02-16T01:44:40.690Z",
         "action": "createCard"
     },
-    "trello_event_68": {
+    "trello_event_65": {
         "label": "Fix Released",
         "id": "65cebd734b3a029f23026dec",
         "name": "[Ranked] Pred icon covers RP earned in Match Summary",
@@ -564,7 +539,7 @@
         "lastUpdate": "2024-02-16T01:42:11.183Z",
         "action": "createCard"
     },
-    "trello_event_69": {
+    "trello_event_66": {
         "label": "Fix Released",
         "id": "65cd1810762962c491812793",
         "name": "[Breakout Rewards] Prev. unlocked Legends appear locked, but can be used",
@@ -573,7 +548,7 @@
         "action": "createCard",
         "desc": "If you have previously unlocked one of the Legends featured in Breakout Rewards, these are still permanently unlocked for you. The gold lock and check are indicators of their participation in this event, and the pop-up language is being updated."
     },
-    "trello_event_70": {
+    "trello_event_67": {
         "label": "Fix Released",
         "id": "65cebc61175edd78b9007a87",
         "name": "[Heavy Rig] Audio out of sync after animation adjustments",
@@ -581,7 +556,7 @@
         "lastUpdate": "2024-02-16T01:37:37.147Z",
         "action": "createCard"
     },
-    "trello_event_71": {
+    "trello_event_68": {
         "label": "Fix Released",
         "id": "65cebf9dc268a6f33b9738ec",
         "name": "EVO Harvester spawning away from players/playable areas",
@@ -589,7 +564,7 @@
         "lastUpdate": "2024-02-16T01:52:16.501Z",
         "action": "updateCard"
     },
-    "trello_event_72": {
+    "trello_event_69": {
         "label": "Fix Released",
         "id": "65d55cdeb5d20129b87163cf",
         "name": "Final 5YA CE badge has delayed delivery",
@@ -597,7 +572,7 @@
         "lastUpdate": "2024-02-21T02:15:58.637Z",
         "action": "createCard"
     },
-    "trello_event_73": {
+    "trello_event_70": {
         "label": "Fix Released",
         "id": "659eeea3556ec69d786103fe",
         "name": "[Aim Assist] Inconsistencies with FR dummies",
@@ -605,7 +580,7 @@
         "lastUpdate": "2024-01-15T23:33:48.509Z",
         "action": "updateCard"
     },
-    "trello_event_74": {
+    "trello_event_71": {
         "label": "Fix Released",
         "id": "657122a5c1fcd0e160b5d6b4",
         "name": "Recent increase in Detected Data Mismatch error",
@@ -613,15 +588,15 @@
         "lastUpdate": "2023-12-07T01:47:50.577Z",
         "action": "updateCard"
     },
-    "trello_event_75": {
+    "trello_event_72": {
         "label": "Fix Released",
         "id": "65427c40e5aeae65ca24ceef",
         "name": "[DX11] Nvidia Reflex is greyed out",
         "translated_name": "[DX11] Nvidia Reflex \u663e\u793a\u4e3a\u7070\u8272",
-        "lastUpdate": "2023-11-01T16:26:40.361Z",
-        "action": "createCard"
+        "lastUpdate": "2023-11-01T16:26:54.997Z",
+        "action": "updateCard"
     },
-    "trello_event_76": {
+    "trello_event_73": {
         "label": "Fix Released",
         "id": "654284a812c0167e4d8d7229",
         "name": "Bullet tracer VFX appears offset when strafing",
@@ -629,16 +604,15 @@
         "lastUpdate": "2023-11-01T17:03:30.699Z",
         "action": "updateCard"
     },
-    "trello_event_77": {
+    "trello_event_74": {
         "label": "Fix Released",
         "id": "654183f691a706f29525d7e2",
         "name": "[Xbox] Game crashing due to console language being unsupported",
         "translated_name": "[Xbox] \u56e0\u4e3b\u673a\u8bed\u8a00\u4e0d\u652f\u6301\u800c\u5bfc\u81f4\u6e38\u620f\u5d29\u6e83",
-        "lastUpdate": "2023-10-31T22:47:38.923Z",
-        "action": "updateCard",
-        "desc": "#\n\nIf your console is set to Swedish, Norwegian, Dutch, Finnish, Danish, Turkish, or Hungarian, please temporarily swap to a different language if possible to resume playing in the interim."
+        "lastUpdate": "2023-11-09T22:03:26.121Z",
+        "action": "updateCard"
     },
-    "trello_event_78": {
+    "trello_event_75": {
         "label": "Fix Released",
         "id": "6543ec378c4e1ff0a4997459",
         "name": "Players can spectate others while respawning",
@@ -646,24 +620,23 @@
         "lastUpdate": "2023-11-02T18:36:39.411Z",
         "action": "createCard"
     },
-    "trello_event_79": {
+    "trello_event_76": {
         "label": "Fix Released",
         "id": "65414c14ca9c6895f55dc85b",
         "name": "Damage radius of Energy Barricade is slightly larger than indicated by VFX",
         "translated_name": "\u80fd\u91cf\u8def\u969c\u7684\u4f24\u5bb3\u534a\u5f84\u6bd4 VFX \u663e\u793a\u7684\u7a0d\u5927\u4e00\u4e9b",
-        "lastUpdate": "2023-11-01T16:26:47.462Z",
+        "lastUpdate": "2023-11-01T16:27:13.237Z",
         "action": "updateCard"
     },
-    "trello_event_80": {
+    "trello_event_77": {
         "label": "Fix Released",
         "id": "65414c57ed334e92e29c61c2",
         "name": "EAC error with Steam Deck/Linux",
         "translated_name": "\u4f7f\u7528 Steam Deck/Linux \u65f6\u51fa\u73b0 EAC \u9519\u8bef",
-        "lastUpdate": "2023-10-31T22:56:41.915Z",
-        "action": "updateCard",
-        "desc": "#"
+        "lastUpdate": "2023-11-08T18:31:15.251Z",
+        "action": "updateCard"
     },
-    "trello_event_81": {
+    "trello_event_78": {
         "label": "Fix Released",
         "id": "65286c3d88858e24135dd131",
         "name": "Some Damage Dealt challenges are not tracking or showing negative damage",
@@ -671,7 +644,7 @@
         "lastUpdate": "2023-11-02T21:05:46.356Z",
         "action": "updateCard"
     },
-    "trello_event_82": {
+    "trello_event_79": {
         "label": "Fix Released",
         "id": "652de7b66cbad287b010ef54",
         "name": "Ranked mode does not unlock until lvl 51",
@@ -680,31 +653,31 @@
         "action": "updateCard",
         "desc": "/"
     },
-    "trello_event_83": {
+    "trello_event_80": {
         "label": "Fix Released",
         "id": "651b044abbd750017cee5480",
         "name": "Viewing lifetime stats causes the client to crash",
         "translated_name": "\u67e5\u770b\u751f\u547d\u5468\u671f\u7edf\u8ba1\u4f1a\u5bfc\u81f4\u5ba2\u6237\u7aef\u5d29\u6e83"
     },
-    "trello_event_84": {
+    "trello_event_81": {
         "label": "Fix Released",
         "id": "650c9ee8a608208fa1b4fae1",
         "name": "Nintendo Switch: Graphics blurry after 18.1.0 update",
         "translated_name": "\u4efb\u5929\u5802 Switch\uff1a18.1.0 \u66f4\u65b0\u540e\u56fe\u5f62\u6a21\u7cca"
     },
-    "trello_event_85": {
+    "trello_event_82": {
         "label": "Fix Released",
         "id": "650c9ed10d4de3afcb82b76a",
         "name": "Revenant Challenge: 1000 damage using revenant shell is not tracking damage",
         "translated_name": "\u4ea1\u7075\u6311\u6218\uff1a\u4f7f\u7528\u4ea1\u7075\u70ae\u5f39\u9020\u6210\u7684 1000 \u70b9\u4f24\u5bb3\u4e0d\u662f\u8ffd\u8e2a\u4f24\u5bb3"
     },
-    "trello_event_86": {
+    "trello_event_83": {
         "label": "Fix Released",
         "id": "64d290262dd0744039b18d4f",
         "name": "[Arsenal] Predator Badges are missing numbers",
         "translated_name": "[\u6b66\u5668\u5e93\u8d5b\u5b63] \u9876\u5c16\u730e\u6740\u8005\u5fbd\u7ae0\u7f3a\u5c11\u7f16\u53f7"
     },
-    "trello_event_87": {
+    "trello_event_84": {
         "label": "Fix Released",
         "id": "654529bd1f9ed2a2c8c0df57",
         "name": "Some players encountering Detected Data Mismatch error",
@@ -713,325 +686,325 @@
         "action": "createCard",
         "desc": "#"
     },
-    "trello_event_88": {
+    "trello_event_85": {
         "label": "Fix Released",
         "id": "64d2906c64b78a50c5db7260",
         "name": "[Arsenal] Ranked badges are static, not animated",
         "translated_name": "[\u6b66\u5668\u5e93\u8d5b\u5b63] \u6392\u4f4d\u8d5b\u5fbd\u7ae0\u662f\u9759\u6001\u7684\uff0c\u4e0d\u662f\u52a8\u753b\u7684"
     },
-    "trello_event_89": {
+    "trello_event_86": {
         "label": "Fix Released",
         "id": "64d56abf07c8c4c8a9e846c6",
         "name": "[Valkyrie] Blade Barrage unequipping when returning to lobby",
         "translated_name": "[\u74e6\u5c14\u57fa\u91cc] \u8fd4\u56de\u5927\u5385\u65f6\u5200\u950b\u66b4\u51fb\u4e0d\u5e73\u7b49"
     },
-    "trello_event_90": {
+    "trello_event_87": {
         "label": "Fix Released",
         "id": "64d290a28a8b298475b9727a",
         "name": "[Revenant] Legend not unlocking after completing challenges until game is rebooted",
         "translated_name": "[\u4ea1\u7075] \u5728\u91cd\u542f\u6e38\u620f\u4e4b\u524d\uff0c\u5b8c\u6210\u6311\u6218\u540e\u65e0\u6cd5\u89e3\u9501\u4f20\u5947"
     },
-    "trello_event_91": {
+    "trello_event_88": {
         "label": "Fix Released",
         "id": "64dacca7e5e1fd6af87fa98f",
         "name": "Additional white pixels near stats on post-match player cards",
         "translated_name": "\u8d5b\u540e\u7403\u5458\u5361\u4e0a\u7edf\u8ba1\u6570\u636e\u9644\u8fd1\u589e\u52a0\u767d\u8272\u50cf\u7d20"
     },
-    "trello_event_92": {
+    "trello_event_89": {
         "label": "Fix Released",
         "id": "64dacb45fedf29dfe6261c94",
         "name": "Unable to see remaining players' and teammates' damage/stats while spectating",
         "translated_name": "\u89c2\u6218\u65f6\u65e0\u6cd5\u67e5\u770b\u5176\u4f59\u73a9\u5bb6\u548c\u961f\u53cb\u7684\u4f24\u5bb3/\u72b6\u6001"
     },
-    "trello_event_93": {
+    "trello_event_90": {
         "label": "Fix Released",
         "id": "64d5513eb062a3f32eaebe42",
         "name": "Ranked timer shows incorrect end date (no splits)",
         "translated_name": "\u6392\u4f4d\u8d5b\u8ba1\u65f6\u5668\u663e\u793a\u4e0d\u6b63\u786e\u7684\u7ed3\u675f\u65e5\u671f\uff08\u65e0\u5206\u7ad9\u8d5b\uff09"
     },
-    "trello_event_94": {
+    "trello_event_91": {
         "label": "Fix Released",
         "id": "64d6ea10b9df0e1d6c50bdc5",
         "name": "Unable to reroll challenges",
         "translated_name": "\u65e0\u6cd5\u5237\u65b0\u6311\u6218"
     },
-    "trello_event_95": {
+    "trello_event_92": {
         "label": "Fix Released",
         "id": "64d28fea073f0f6e39c36700",
         "name": "Ranked progress bar missing from post-match summary",
         "translated_name": "\u8d5b\u540e\u603b\u7ed3\u4e2d\u7f3a\u5c11\u6392\u4f4d\u8d5b\u8fdb\u5ea6\u6761"
     },
-    "trello_event_96": {
+    "trello_event_93": {
         "label": "Fix Released",
         "id": "64d28fd8d4da039b4c78ea16",
         "name": "Players often return to first available playlist after playing Mixtape match",
         "translated_name": "\u64ad\u653e\u6df7\u5408\u6a21\u5f0f\u6bd4\u8d5b\u540e\uff0c\u73a9\u5bb6\u5f80\u5f80\u4f1a\u8fd4\u56de\u5230\u7b2c\u4e00\u4e2a\u53ef\u7528\u7684\u64ad\u653e\u5217\u8868"
     },
-    "trello_event_97": {
+    "trello_event_94": {
         "label": "Fix Released",
         "id": "64a742ac4aa457a0654da109",
         "name": "[Broken Moon] Inconsistent OOB trigger on Production Yard Roof",
         "translated_name": "[\u6b8b\u6708] \u751f\u4ea7\u573a\u5c4b\u9876\u7684\u8d8a\u754c\u89e6\u53d1\u4e0d\u4e00\u81f4"
     },
-    "trello_event_98": {
+    "trello_event_95": {
         "label": "Fix Released",
         "id": "64d3fb0b31bff90f2c13e695",
         "name": "Players below level 50 can currently access Ranked",
         "translated_name": "\u4f4e\u4e8e 50 \u7ea7\u7684\u73a9\u5bb6\u76ee\u524d\u53ef\u4ee5\u8fdb\u5165\u6392\u4f4d\u8d5b"
     },
-    "trello_event_99": {
+    "trello_event_96": {
         "label": "Fix Released",
         "id": "64b9a35d609671f52b41ae11",
         "name": "[PC: Control] Error when reconnecting on spawn screen",
         "translated_name": "[\u7535\u8111\uff1a\u63a7\u5236\u4f4d] \u5728\u518d\u751f\u5c4f\u5e55\u4e0a\u91cd\u65b0\u8fde\u63a5\u65f6\u51fa\u9519"
     },
-    "trello_event_100": {
+    "trello_event_97": {
         "label": "Fix Released",
         "id": "649df21a21412b4804bf7a90",
         "name": "Enabling \"Clamp Mouse Cursor to Game Window\" causes mouse cursor to be invisible",
         "translated_name": "\u542f\u7528 \"\u5c06\u9f20\u6807\u5149\u6807\u9501\u5b9a\u5230\u6e38\u620f\u7a97\u53e3 \"\u4f1a\u5bfc\u81f4\u9f20\u6807\u5149\u6807\u4e0d\u53ef\u89c1"
     },
-    "trello_event_101": {
+    "trello_event_98": {
         "label": "Fix Released",
         "id": "646fcfe831ed6f2bff595c63",
         "name": "Support Bins not awarding Mobile Respawn Beacons when ally is dead",
         "translated_name": "\u652f\u63f4\u4f4d\u5728\u76df\u53cb\u6b7b\u4ea1\u65f6\u4e0d\u4f1a\u83b7\u5f97\u79fb\u52a8\u590d\u6d3b\u4fe1\u6807"
     },
-    "trello_event_102": {
+    "trello_event_99": {
         "label": "Fix Released",
         "id": "64b71d6730a0ee150362a29b",
         "name": "Tridents can enter a glitched state where they avoid most damage",
         "translated_name": "\u4e09\u53c9\u621f\u53ef\u8fdb\u5165\u95ea\u70c1\u72b6\u6001\uff0c\u4ece\u800c\u907f\u514d\u5927\u90e8\u5206\u4f24\u5bb3"
     },
-    "trello_event_103": {
+    "trello_event_100": {
         "label": "Fix Released",
         "id": "64386f493618e7b41e5e28ea",
         "name": "[Control] Players are occasionally unable to spawn on any captured zones\u2014mode temp removed",
         "translated_name": "[\u63a7\u5236]\u73a9\u5bb6\u5076\u5c14\u65e0\u6cd5\u5728\u4efb\u4f55\u5df2\u5360\u9886\u7684\u533a\u57df\u751f\u6210-\u5220\u9664\u4e86\u4e34\u65f6\u6a21\u5f0f"
     },
-    "trello_event_104": {
+    "trello_event_101": {
         "label": "Fix Released",
         "id": "6438704a13e674c6ab330211",
         "name": "Players can get stuck in certain replicators after crafting an item",
         "translated_name": "\u73a9\u5bb6\u5728\u5236\u4f5c\u7269\u54c1\u540e\u53ef\u80fd\u4f1a\u88ab\u5361\u5728\u67d0\u4e9b\u590d\u5236\u5668\u4e2d"
     },
-    "trello_event_105": {
+    "trello_event_102": {
         "label": "Fix Released",
         "id": "645d5b9dfeae3cfd1940bfe8",
         "name": "Challenge lists \"Deal 50000 damage\" instead of 5000 damage",
         "translated_name": "\u6311\u6218\u5217\u51fa \"\u9020\u6210 50000 \u4f24\u5bb3\"\uff0c\u800c\u4e0d\u662f 5000 \u4f24\u5bb3"
     },
-    "trello_event_106": {
+    "trello_event_103": {
         "label": "Fix Released",
         "id": "6441aa37edc515db88c62289",
         "name": "Emote wheel not available during Champion screen.",
         "translated_name": "\u5728\u634d\u536b\u8005\u753b\u9762\u4e2d\u65e0\u6cd5\u4f7f\u7528\u8868\u60c5\u8f6e\u3002"
     },
-    "trello_event_107": {
+    "trello_event_104": {
         "label": "Fix Released",
         "id": "64766fabe956a15132d86a13",
         "name": "Blank Death Recap when match ends and player isn't the Champion",
         "translated_name": "\u5f53\u6bd4\u8d5b\u7ed3\u675f\u4e14\u73a9\u5bb6\u4e0d\u662f\u634d\u536b\u8005\u65f6\u7684\u7a7a\u767d\u6b7b\u4ea1\u56de\u987e"
     },
-    "trello_event_108": {
+    "trello_event_105": {
         "label": "Fix Released",
         "id": "64656dd22e5c49438d145bd3",
         "name": "Cannot interact with ziplines during banner retrieval animation.",
         "translated_name": "\u65e0\u6cd5\u5728\u6536\u56de\u65d7\u5e1c\u52a8\u753b\u671f\u95f4\u4e0e\u6ed1\u7d22\u4e92\u52a8\u3002"
     },
-    "trello_event_109": {
+    "trello_event_106": {
         "label": "Fix Released",
         "id": "6441aabf57af618a93915c1d",
         "name": "While using DX12 and low detail model settings, scanning a ring console will crash the client.",
         "translated_name": "\u5728\u4f7f\u7528 DX12 \u548c\u4f4e\u7ec6\u8282\u6a21\u578b\u8bbe\u7f6e\u65f6\uff0c\u626b\u63cf\u5b89\u5168\u533a\u63a7\u5236\u53f0\u4f1a\u4f7f\u5ba2\u6237\u7aef\u5d29\u6e83\u3002"
     },
-    "trello_event_110": {
+    "trello_event_107": {
         "label": "Fix Released",
         "id": "6491ce00415ec2698a37ffae",
         "name": "[Switch] Players may not be able to login with Dressed to Kill",
         "translated_name": "[Switch] \u73a9\u5bb6\u53ef\u80fd\u65e0\u6cd5\u4f7f\u7528 \"\u8863\u9526\u8fd8\u4e61 \"\u767b\u5f55"
     },
-    "trello_event_111": {
+    "trello_event_108": {
         "label": "Fix Released",
         "id": "645d5a75da94bcc86c50b329",
         "name": "[Ballistic] Swapping Sling Weapons with Loot Vending Machine doesn't update weapon UI",
         "translated_name": "[\u5f39\u9053] \u4f7f\u7528\u6218\u5229\u54c1\u81ea\u52a8\u552e\u8d27\u673a\u4ea4\u6362\u6302\u888b\u6b66\u5668\u4e0d\u4f1a\u66f4\u65b0\u6b66\u5668 UI"
     },
-    "trello_event_112": {
+    "trello_event_109": {
         "label": "Fix Released",
         "id": "645c056695776b478feefa6e",
         "name": "[World's Edge] The sun is too bright when looking at players above you.",
         "translated_name": "[\u4e16\u754c\u8fb9\u7f18]\u770b\u4e0a\u65b9\u7684\u73a9\u5bb6\u65f6\uff0c\u592a\u9633\u592a\u4eae\u4e86\u3002"
     },
-    "trello_event_113": {
+    "trello_event_110": {
         "label": "Fix Released",
         "id": "645c053cc40dfb6b13cb6691",
         "name": "[World's Edge] Appears brighter than normal.",
         "translated_name": "[\u4e16\u754c\u8fb9\u7f18] \u6bd4\u6b63\u5e38\u60c5\u51b5\u4e0b\u66f4\u4eae\u3002"
     },
-    "trello_event_114": {
+    "trello_event_111": {
         "label": "Fix Released",
         "id": "645c0500e8c2a69a85138ea4",
         "name": "[Wraith] In certain conditions, Wraith can shoot while downed.",
         "translated_name": "[\u6076\u7075] \u5728\u67d0\u4e9b\u60c5\u51b5\u4e0b\uff0c\u6076\u7075\u53ef\u4ee5\u5728\u88ab\u51fb\u843d\u65f6\u5c04\u51fb\u3002"
     },
-    "trello_event_115": {
+    "trello_event_112": {
         "label": "Fix Released",
         "id": "645a8947f7a374a05fa52939",
         "name": "[Catalyst] Scan Highlights and Diamonds visible through Dark Veil",
         "translated_name": "[\u5361\u7279\u8389\u65af] \u901a\u8fc7\u9ed1\u6697\u9762\u7eb1\u770b\u5230\u626b\u63cf\u4eae\u70b9\u548c\u94bb\u77f3"
     },
-    "trello_event_116": {
+    "trello_event_113": {
         "label": "Fix Released",
         "id": "645a865fa07f8e624acfcf2e",
         "name": "[Firing Range] Joining a player in-progress will not bring recent changes made in lobby.",
         "translated_name": "[\u5c04\u51fb\u573a] \u52a0\u5165\u8fdb\u884c\u4e2d\u7684\u73a9\u5bb6\u4e0d\u4f1a\u5e26\u6765\u5927\u5385\u4e2d\u6700\u8fd1\u7684\u66f4\u6539\u3002"
     },
-    "trello_event_117": {
+    "trello_event_114": {
         "label": "Fix Released",
         "id": "645a85a94b0380b2a96771ec",
         "name": "[Arsenal] Players are currently limited to Firing Range",
         "translated_name": "[\u6b66\u5668\u5e93\u8d5b\u5b63] \u73a9\u5bb6\u76ee\u524d\u53ea\u80fd\u4f7f\u7528\u5c04\u51fb\u573a"
     },
-    "trello_event_118": {
+    "trello_event_115": {
         "label": "Fix Released",
         "id": "645a7eb40108fa44578e1f7f",
         "name": "[Ballistic] When two Ballistics lock each other with Whistler, weapon and reticles disappear after one has unlocked themselves.",
         "translated_name": "[\u5f39\u9053]\u5f53\u4e24\u4e2a \"\u5f39\u9053 \"\u4f7f\u7528 \"\u53e3\u54e8\u513f \"\u9501\u5b9a\u5bf9\u65b9\u65f6\uff0c\u6b66\u5668\u548c\u7784\u51c6\u955c\u4f1a\u5728\u5176\u4e2d\u4e00\u4e2a\u89e3\u9501\u540e\u6d88\u5931\u3002"
     },
-    "trello_event_119": {
+    "trello_event_116": {
         "label": "Fix Released",
         "id": "645a7e05c3f36bf5d246d9ed",
         "name": "[Predator] Rank displays total LP incorrectly in lower ranks",
         "translated_name": "[\u9876\u5c16\u730e\u6740\u8005] \u6392\u4f4d\u8d5b\u5728\u8f83\u4f4e\u7b49\u7ea7\u4e2d\u663e\u793a\u7684 LP \u603b\u503c\u4e0d\u6b63\u786e"
     },
-    "trello_event_120": {
+    "trello_event_117": {
         "label": "Fix Released",
         "id": "64541e36c979f2cb93eed1ed",
         "name": "[Catalyst] Frame rate drops when prepping Dark Veil.",
         "translated_name": "[\u5361\u7279\u8389\u65af] \u51c6\u5907\u9ed1\u6697\u9762\u7eb1\u65f6\u5e27\u901f\u7387\u4e0b\u964d\u3002"
     },
-    "trello_event_121": {
+    "trello_event_118": {
         "label": "Fix Released",
         "id": "644ae56d2e857f40571af028",
         "name": "Being in Ash's Phase Breach when Ash dies can result in redirects player to a random location",
         "translated_name": "\u827e\u8bb8\u6b7b\u4ea1\u65f6\uff0c\u5904\u4e8e\u827e\u8bb8\u7684\u76f8\u4f4d\u7a81\u7834\u4e2d\u7684\u73a9\u5bb6\u53ef\u80fd\u4f1a\u91cd\u65b0\u5b9a\u5411\u5230\u4e00\u4e2a\u968f\u673a\u4f4d\u7f6e"
     },
-    "trello_event_122": {
+    "trello_event_119": {
         "label": "Fix Released",
         "id": "644ae4c70d394e72e5fc6daa",
         "name": "[Switch] Some Switch accounts have not been corrected after a previous persistence issue was resolved.",
         "translated_name": "[Switch]\u67d0\u4e9b Switch \u8d26\u6237\u5728\u4e4b\u524d\u7684\u6301\u4e45\u6027\u95ee\u9898\u89e3\u51b3\u540e\u4ecd\u672a\u66f4\u6b63\u3002"
     },
-    "trello_event_123": {
+    "trello_event_120": {
         "label": "Fix Released",
         "id": "644ae354125ba6b1880e398c",
         "name": "Audio and VFX drops since S16 launch",
         "translated_name": "\u97f3\u9891\u548c\u89c6\u89c9\u7279\u6548\u81ea S16 \u53d1\u5e03\u4ee5\u6765\u6709\u6240\u4e0b\u964d"
     },
-    "trello_event_124": {
+    "trello_event_121": {
         "label": "Fix Released",
         "id": "6442e24b4f94ecbc44660a9f",
         "name": "Gibraltar's Defensive Bombardment warning horn does not play. (All other related audio does)",
         "translated_name": "\u76f4\u5e03\u7f57\u9640\u7684\u9632\u5fa1\u8f70\u70b8\u8b66\u62a5\u5587\u53ed\u6ca1\u6709\u54cd\u8d77\u3002(\u6240\u6709\u5176\u4ed6\u76f8\u5173\u97f3\u9891\u90fd\u80fd\u64ad\u653e\uff09"
     },
-    "trello_event_125": {
+    "trello_event_122": {
         "label": "Fix Released",
         "id": "6441aa6eb77a33f865a68a1f",
         "name": "Caustic traps disappear when thrown in front of closed doors that are then opened.",
         "translated_name": "\u4fb5\u8680\u9677\u9631\u6254\u5230\u7d27\u95ed\u7684\u95e8\u524d\u5c31\u4f1a\u6d88\u5931\uff0c\u7136\u540e\u518d\u6253\u5f00\u3002"
     },
-    "trello_event_126": {
+    "trello_event_123": {
         "label": "Fix Released",
         "id": "643870da53618919a1fdb44d",
         "name": "While using the Bangalore Legend with Viceroy Skin if you ADS with certain scopes (1x Holo & the 2x4x Variable) while using Tactical a texture will block screen.",
         "translated_name": "\u5728\u4f7f\u7528\u5e26\u6709 \"\u603b\u7763\u76ae\u80a4 \"\u7684\u73ed\u52a0\u7f57\u5c14\u4f20\u5947\u65f6\uff0c\u5982\u679c\u4f7f\u7528\u67d0\u4e9b\u7784\u51c6\u955c\uff08\u4e00\u500d\u5706\u548c 2x4x \u53ef\u53d8\u7784\u51c6\u955c\uff09\u8fdb\u884c ADS\uff0c\u5728\u4f7f\u7528 \"\u6218\u672f \"\u65f6\uff0c\u7eb9\u7406\u4f1a\u906e\u6321\u5c4f\u5e55\u3002"
     },
-    "trello_event_127": {
+    "trello_event_124": {
         "label": "Fix Released",
         "id": "6438708c245a14ab18e332ce",
         "name": "Crouch ADS with the prowler does not function after crouching a few times.",
         "translated_name": "\u4f7f\u7528\u730e\u517d\u7684\u4e0b\u8e72 ADS \u5728\u4e0b\u8e72\u51e0\u6b21\u540e\u4e0d\u8d77\u4f5c\u7528\u3002"
     },
-    "trello_event_128": {
+    "trello_event_125": {
         "label": "Fix Released",
         "id": "6425fce4c0cb1bb1b5e42f44",
         "name": "When holding the tactical button to deploy and jump to Echo, Echo will spawn where Vantage spawned, or to the last position Echo was recalled to.",
         "translated_name": "\u5f53\u6309\u4f4f\u6218\u672f\u6309\u94ae\u90e8\u7f72\u5e76\u8df3\u8f6c\u5230 Echo \u65f6\uff0cEcho \u4f1a\u5728\u4e07\u8482\u5947\u751f\u6210\u7684\u5730\u65b9\u751f\u6210\uff0c\u6216\u8005\u5230 Echo \u88ab\u53ec\u56de\u7684\u6700\u540e\u4e00\u4e2a\u4f4d\u7f6e\u3002"
     },
-    "trello_event_129": {
+    "trello_event_126": {
         "label": "Fix Released",
         "id": "6425faa4b981961a97752597",
         "name": "\"Splash Zone\" ironsight for Flatline is much wider/clearer compared with other Flatline skins",
         "translated_name": "\u4e0e\u5176\u4ed6 VK-47 \u76ae\u80a4\u76f8\u6bd4\uff0cVK-47 \u7684 \"\u98de\u6e85\u533a \"\u7784\u51c6\u955c\u66f4\u5bbd/\u66f4\u6e05\u6670"
     },
-    "trello_event_130": {
+    "trello_event_127": {
         "label": "Fix Released",
         "id": "6425fa16a9fafe5c8963903d",
         "name": "Default commands for removing/transferring attachments for weapons was swapped",
         "translated_name": "\u79fb\u9664/\u8f6c\u79fb\u6b66\u5668\u914d\u4ef6\u7684\u9ed8\u8ba4\u547d\u4ee4\u5df2\u4ea4\u6362"
     },
-    "trello_event_131": {
+    "trello_event_128": {
         "label": "Fix Released",
         "id": "6425f9438b5808fd806c0580",
         "name": "[Belgium] players are unable to purchase Sun Squad items.",
         "translated_name": "[\u6bd4\u5229\u65f6]\u73a9\u5bb6\u65e0\u6cd5\u8d2d\u4e70\u592a\u9633\u5c0f\u961f\u7269\u54c1\u3002"
     },
-    "trello_event_132": {
+    "trello_event_129": {
         "label": "Fix Released",
         "id": "64011e554d387c4415243b57",
         "name": "Performance and stability issues on Xbox platforms",
         "translated_name": "Xbox \u5e73\u53f0\u4e0a\u7684\u6027\u80fd\u548c\u7a33\u5b9a\u6027\u95ee\u9898"
     },
-    "trello_event_133": {
+    "trello_event_130": {
         "label": "Fix Released",
         "id": "63ee659f345285947e998424",
         "name": "UI is not accurate for Team Deathmatch",
         "translated_name": "\u56e2\u961f\u6b7b\u6597\u7684\u7528\u6237\u754c\u9762\u4e0d\u51c6\u786e"
     },
-    "trello_event_134": {
+    "trello_event_131": {
         "label": "Fix Released",
         "id": "63ec10f87e216b43f081ce6c",
         "name": "If you see ORIENTATION MATCH on the @PlayApex game mode selector and shouldn't - read here.",
         "translated_name": "\u5982\u679c\u60a8\u5728 @PlayApex \u6e38\u620f\u6a21\u5f0f\u9009\u62e9\u5668\u4e0a\u770b\u5230\u4e86\u8fce\u65b0\u8d5b\uff0c\u4f46\u4e0d\u5e94\u8be5\u770b\u5230 - \u8bf7\u9605\u8bfb\u6b64\u5904\u3002"
     },
-    "trello_event_135": {
+    "trello_event_132": {
         "label": "Fix Released",
         "id": "63d9b13d276c796a9368ebf2",
         "name": "[EA App players only] players that buy Apex Coins don't get an updated Coin balance until they restart the game.",
         "translated_name": "[\u4ec5\u9650 EA App \u73a9\u5bb6]\u8d2d\u4e70 Apex \u786c\u5e01\u7684\u73a9\u5bb6\u5728\u91cd\u542f\u6e38\u620f\u524d\u4e0d\u4f1a\u83b7\u5f97\u66f4\u65b0\u7684\u786c\u5e01\u4f59\u989d\u3002"
     },
-    "trello_event_136": {
+    "trello_event_133": {
         "label": "Fix Released",
         "id": "63cf2dc67be13860bfefac03",
         "name": "[SWITCH ONLY] A small number of Switch players may appear as level 1 or are missing other statistics. We are continuing to investigate the issue and will update ASAP.",
         "translated_name": "[\u4ec5\u9650 Switch]\u5c11\u6570 Switch \u73a9\u5bb6\u53ef\u80fd\u663e\u793a\u4e3a 1 \u7ea7\u6216\u7f3a\u5c11\u5176\u4ed6\u7edf\u8ba1\u6570\u636e\u3002\u6211\u4eec\u6b63\u5728\u7ee7\u7eed\u8c03\u67e5\u8be5\u95ee\u9898\uff0c\u5e76\u5c06\u5c3d\u5feb\u66f4\u65b0\u3002"
     },
-    "trello_event_137": {
+    "trello_event_134": {
         "label": "Fix Released",
         "id": "63c9bee981545c00a3920b69",
         "name": "UI Images error when playing Olympus",
         "translated_name": "\u73a9\u5965\u6797\u5339\u65af\u65f6\u51fa\u73b0 UI \u56fe\u50cf\u9519\u8bef"
     },
-    "trello_event_138": {
+    "trello_event_135": {
         "label": "Fix Released",
         "id": "63c096326d635001b47818a3",
         "name": "The third person easter egg can't be activated",
         "translated_name": "\u7b2c\u4e09\u4eba\u79f0\u5f69\u86cb\u65e0\u6cd5\u6fc0\u6d3b"
     },
-    "trello_event_139": {
+    "trello_event_136": {
         "label": "Fix Released",
         "id": "63c096150a029a017eafc769",
         "name": "Custom Match is missing certain button prompts",
         "translated_name": "\u81ea\u5b9a\u4e49\u5339\u914d\u7f3a\u5c11\u67d0\u4e9b\u6309\u94ae\u63d0\u793a"
     },
-    "trello_event_140": {
+    "trello_event_137": {
         "label": "Fix Released",
         "id": "63c095f6727c680016b585d7",
         "name": "Blank ping and emote wheels in the Firing Range",
         "translated_name": "\u5c04\u51fb\u573a\u4e2d\u7684\u7a7a\u767d\u6807\u8bb0\u548c\u8868\u60c5\u8f6e"
     },
-    "trello_event_141": {
+    "trello_event_138": {
         "label": "Fix Released",
         "id": "63c095cdede6ec01e496eef1",
         "name": "Wraiths eliminated by headshots create blue and orange particle effects",
